@@ -1,7 +1,7 @@
 
 # Michel Pereira
 
-Sou PcD físico e trabalho com desenvolvimento há mais que 30 anos. Sou aspirante de Cybersecurity. 
+Sou PcD físico devido ao AVC e trabalho com desenvolvimento há mais que 30 anos. Sou aspirante de Cybersecurity. 
 Amante da vida, do amor, da tecnologia, dos meus filhos e da família.
 
 ## Habilidades
