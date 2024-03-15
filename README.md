@@ -52,7 +52,8 @@ Amante da vida, do amor, da tecnologia, dos meus filhos e da família.
 
 ### Ferramentas
 
-<img align="center" title="Git" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;<img align="center" title="Kafka" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-grey?style=for-the-badge&logo=apachekafka"/>&nbsp;
+<img align="center" title="Git" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img align="center" title="Kafka" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-grey?style=for-the-badge&logo=apachekafka"/>&nbsp;
 <img align="center" title="Maven" alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-grey?style=for-the-badge&logo=apachemaven"/>&nbsp;<img align="center" title="Powershell" alt="Powershell" src="https://img.shields.io/badge/Powershell-grey?style=for-the-badge&logo=powershell"/>&nbsp;
 
 <img align="center" title="Tomcat" alt="Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-grey?style=for-the-badge&logo=apachetomcat"/>&nbsp;
